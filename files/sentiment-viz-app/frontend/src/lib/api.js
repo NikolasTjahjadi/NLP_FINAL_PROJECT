@@ -1,4 +1,4 @@
-const API_BASE = '/api'
+const API_BASE = 'https://kurtos123-Backend.hf.space'
 
 export async function predictSentiment(text, model = 'all') {
   const res = await fetch(`${API_BASE}/predict`, {
