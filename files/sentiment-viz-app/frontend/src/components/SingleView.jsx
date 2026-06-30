@@ -12,7 +12,7 @@ const MODEL_INFO = {
   M3:     { name: 'M3 Static Hybrid',       desc: 'XGBoost on concatenated TF-IDF + 17 features',    f1: 0.5898 },
   M4_LR:  { name: 'M4 Stacking (LR meta)',  desc: '4 base models + Logistic Regression meta-learner', f1: 0.6203 },
   M4_LGB: { name: 'M4 Stacking (LGB meta)', desc: '4 base models + LightGBM meta-learner',           f1: 0.6250 },
-  M5:     { name: 'M5 BERTweet',            desc: 'Fine-tuned transformer on 850M tweets',           f1: 0.7244 },
+  M5:     { name: 'M5 BERTweet',            desc: 'Fine-tuned transformer on 850M tweets',           f1: 0.7182 },
 }
 
 
