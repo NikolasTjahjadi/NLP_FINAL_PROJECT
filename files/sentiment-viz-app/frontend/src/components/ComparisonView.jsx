@@ -12,7 +12,7 @@ const MODEL_META = {
   M3:     { family: 'Hybrid',      accent: 'orange',  f1: 0.5898 },
   M4_LR:  { family: 'Stacking',    accent: 'fuchsia', f1: 0.6203 },
   M4_LGB: { family: 'Stacking',    accent: 'fuchsia', f1: 0.6250 },
-  M5:     { family: 'Transformer', accent: 'emerald', f1: 0.7244 },
+  M5:     { family: 'Transformer', accent: 'emerald', f1: 0.7182 },
 }
 
 export default function ComparisonView({ result }) {
