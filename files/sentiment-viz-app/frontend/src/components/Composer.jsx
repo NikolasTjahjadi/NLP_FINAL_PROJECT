@@ -12,7 +12,7 @@ const MODELS = [
   { id: 'M3',     family: 'Hybrid', f1: 0.5898 },
   { id: 'M4_LR',  family: 'Stacking', f1: 0.6203 },
   { id: 'M4_LGB', family: 'Stacking', f1: 0.6250 },
-  { id: 'M5',     family: 'Transformer', f1: 0.7244 },
+  { id: 'M5',     family: 'Transformer', f1: 0.7182 },
 ]
 
 const EXAMPLES = [
